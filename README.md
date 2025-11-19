@@ -85,7 +85,6 @@ SOURCE_SERVERS="8.8.8.8 1.1.1.1 10.x.x.x"
 # Paths
 DOMAIN_LIST_PATH="./list-domain.txt"
 FAILURE_OUTPUT="./failure-lookup.txt"
-CSV_OUTPUT="./dns-stats.csv"
 
 # Integrations
 TEAMS_WEBHOOK_URL="[https://outlook.office.com/webhook/](https://outlook.office.com/webhook/)..."
