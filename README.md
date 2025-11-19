@@ -1,8 +1,6 @@
 # 📡 DNS Monitor CLI
 
 ![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Maintenance](https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **A robust, real-time DNS monitoring tool for DevOps and Sysadmins.**
 
